@@ -1,0 +1,15 @@
+# Key Insights
+
+1. Total Orders: 9,994  
+2. Total Sales: $2,297,200  
+3. Total Profit: $286,397  
+
+4. West region has the highest sales, followed by East.  
+5. Consumer segment contributes the highest revenue.  
+6. Technology category generates the highest profit.  
+
+7. Some products are making losses, indicating pricing or discount issues.  
+8. Top-selling products include Canon Copier and Fellowes Binding Machine.  
+
+9. States like California and New York contribute the highest sales.  
+10. New York City has the highest number of orders.
