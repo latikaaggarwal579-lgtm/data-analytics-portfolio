@@ -22,5 +22,6 @@ This project is an interactive Sales CRM Dashboard built using Excel.
 - Deal stage breakdown
 
 ## 📷 Dashboard Preview
+![CRM Dashboard](https://github.com/latikaaggarwal579-lgtm/data-analytics-portfolio/raw/main/CRM-Sales-Dashboard/Screenshot%202026-04-10%20232159.png)
 
 
