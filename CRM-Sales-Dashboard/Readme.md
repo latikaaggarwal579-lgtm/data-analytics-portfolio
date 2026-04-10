@@ -1,24 +1,26 @@
-# 📊 CRM Sales Dashboard (Excel)
+# Sales CRM Dashboard (Excel Project)
 
-## Overview
-Built an interactive CRM dashboard using Excel to analyze sales pipeline performance.
+##  Overview
+This project is an interactive Sales CRM Dashboard built using Excel.
 
-## Tools Used
+##  Key Insights
+- Total Revenue: 10,005,534
+- Total Deals: 8,800
+- Conversion Rate: 63%
+- Top Manager: Melvin Marxen
+
+## 🛠 Tools Used
 - Excel
 - Pivot Tables
-- Pivot Charts
-- Slicers & Timeline
+- Slicers
+- Data Visualization
 
-## Key Features
-- Sales pipeline analysis (Won, Lost, Prospecting)
-- KPIs: Revenue, Deal Count, Conversion Rate
-- Region & Manager performance
-- Monthly trends analysis
+##  Features
+- Interactive filtering using slicers
+- Monthly revenue trend analysis
+- Manager performance analysis
+- Deal stage breakdown
 
-##  Files
-- CRM_Dashboard.xlsx
+## 📷 Dashboard Preview
 
-##  Insights
-- Identified top-performing regions
-- Tracked conversion trends
-- Improved decision-making with dynamic filtering
+
